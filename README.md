@@ -2,6 +2,8 @@
 Reference Article: https://www.awesome-testing.com/2019/05/performance-testing-benchmarking-java.html
 This is a fork of: https://github.com/slawekradzyminski/AwesomeTesting
 
+For more information on JMH Check the following Git Repo: https://github.com/Valloric/jmh-playground
+
 ## Blog archive - tags
 - [API testing](#api-testing)
 - [Cypress](#cypress)
