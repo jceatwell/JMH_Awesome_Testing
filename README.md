@@ -1,4 +1,7 @@
 # Awesome Testing code snippets
+Reference Article: https://www.awesome-testing.com/2019/05/performance-testing-benchmarking-java.html
+This is a fork of: https://github.com/slawekradzyminski/AwesomeTesting
+
 ## Blog archive - tags
 - [API testing](#api-testing)
 - [Cypress](#cypress)
